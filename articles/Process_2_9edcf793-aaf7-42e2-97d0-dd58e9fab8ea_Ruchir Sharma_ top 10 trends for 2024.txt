@@ -1,0 +1,141 @@
+The year gone by played out as if the pandemic had never happened. The widely anticipated global recession never came. Markets surged. Disinflation was the buzzword. The post-pandemic world unexpectedly resembled 2019 — the year before the coronavirus supposedly changed our lives forever. 
+Yet in the end, 2023 was a reminder that most years turn out to be a mix of the surprising and the predictable. Not all the purely contrarian bets would have paid off. Europe’s economy fell farther behind the US. American mega cap tech stocks again led the charge.
+With that in mind, my top 10 predictions for 2024 focus on how current trends will evolve. The price of money, inflation and big tech will remain at the heart of the global conversation, though not in quite the same ways. Meanwhile, politics will command centre stage for a simple reason: the world has never seen a bigger year for elections.
+Democracy in overdrive
+Elections are scheduled to occur in more than 30 democracies including the three largest — the US, India and Indonesia. In all, 46 per cent of the global population will have an opportunity to vote, the largest share since 1800 when such records first began, says Deutsche Bank research. And voters will bring their dissatisfaction with them.
+The recent rise of angry populists reflects a deeper trend — distrust of incumbents. In the 50 most populated democracies, seated politicians won re-election 70 per cent of the time in the late 2000s; now they win 30 per cent of the time. Leaders of India and Indonesia buck this trend but US president Joe Biden exemplifies it.
+This is the biggest year for democracy since 1800
+Share of global population with an opportunity to vote in national elections (%)
+1800
+1820
+1840
+1860
+1880
+1900
+1920
+2020
+1940
+2000
+1960
+1980
+0
+50
+40
+30
+20
+10
+Sources: Deutsche Bank, Haver Analytics, UN World Population Prospects, The V-Dem Project, European Commission, Breakout Capital Research
+Incumbents used to enjoy the obvious advantage of high office and high visibility, but that is no longer a guarantee of popularity. Over the past 30 years, US presidents have seen their approval ratings wither away in their first terms, to lower and lower levels. At just 38 per cent, Biden’s approval rating is at a record low for this stage of a presidency. And many of his developed world peers are no more popular. These trends foretell upheaval in the roster of world leaders.
+Bond vigilantes versus politicians
+The surreal calm of 2023 gave way to mild euphoria in the closing weeks of the year as inflation fell faster than expected, creating hopes that interest rates will keep falling. This overlooks one key trend.
+In a campaign season political leaders are much more likely to raise than cut spending, which means mounting deficits. In the US, Biden spending programmes have already pushed the deficit up to 6 per cent of GDP, double its long-term trend and five times the average for developed economies.
+The key issue is the “term premium”, or the added pay-off bond investors demand for the risk of holding long-term debt. In the 2010s, with inflation low and central banks buying bonds by the billions, that risk disappeared. Only now, debts and deficits are much larger than before the pandemic, inflation has not fully retreated, and central banks are no longer big bond buyers. Even if inflation fades further, investors probably will demand something extra to keep absorbing the huge supply of government bonds. That means interest rates, long-term rates in particular, will not fall anywhere near as much as they did in previous disinflation cycles.
+Backlash against immigration
+For many reasons — from labour market shortages in the western world to war in Ukraine — immigration has exploded, up since 2019 by 20 per cent in Canada, near 35 per cent in the US and near 45 per cent in the UK.
+These flows are a huge plus to economies facing worker shortages, even if they are unpopular. Dutch rightwing populist Geert Wilders came first in the national ballot last year on a migrant-bashing platform. Migrants also became a campaign issue in Poland, which has become less welcoming of new waves of refugees — despite a particularly dire need. Poland’s working age population growth rate had turned negative, before the influx of immigrants turned it around.
+Immigration and the US labour market
+Foreign-born labour force in the US (mn)
+2023
+2021
+2019
+2017
+2015
+2013
+2011
+0
+30
+20
+10
+Workforce has grown 2.7mn in two years, nearly 4x the pace of the previous decade
+Workforce has grown 2.7mn in two years, nearly 4x the pace of the previous decade
+Source: US FRED, Breakout Capital calculations • figures are Dec 1
+The next hotspot is the US, the largest nation with surging immigration and a 2024 election. Though the immigrants are reducing wage pressure, helping to lower inflation, the blowback is already loud and clear, led by Donald Trump. Its main target is illegal immigrants, who outnumbered legal immigrants by 2mn to 1.6mn in 2023. Whoever wins the election, the backlash is likely to spill over and slow the flow of immigrants — and the benefits they bring.
+The no-bust cycle
+Interest rates rose so sharply, it seemed almost certain that indebted businesses would fail quickly, consumers would hunker down immediately, markets would tank, recession would strike, and the world would face a classic bust in 2023.
+But the economy, at least in the US, proved remarkably resilient. One reason: Americans are locked into lower rates. Investment grade companies have been selling bonds with longer terms, which now average 12 years, so the burden of recent rate hikes has yet to strike. US homeowners still pay an average mortgage rate of 3.75 per cent — roughly half the rate on new mortgages.
+Another: during the 2010s action shifted from public to private financial markets, where there are signs of weakening, including slower flows to private funds and fewer sales of PE-owned companies. But private firms don’t have to report returns as frequently as public funds do, so the weakness won’t be fully visible for a while.
+The air could still come out slowly of both the economy and the markets. In a way that’s already happening, as seen in the public markets. The S&P 500 has not made a new high in two years, and is now 20 per cent above its 150-year trend, down from 45 per cent in late 2021. With borrowing costs still relatively high, the economy is likely to slide downward as well, though possibly avoiding the classic bust.
+European resilience
+In 2023, the US economy grew at 2.5 per cent, five times faster than Europe, widening a gap that has been growing for years if not decades. Europe can seem hopeless, and trashing its economic prospects rarely inspires much pushback.
+But against a backdrop of zero expectations, even small changes for the better can rekindle animal spirits and Japan demonstrated that point last year. Europe could do the same this year. As the Ukraine war-related energy crunch eases, inflation has collapsed from over 10 per cent to 2.5 per cent. Real wages were falling, now they are growing at a pace of 3 per cent, the fastest in three decades, giving consumers a lot of spending power.
+Europeans were hit harder by recent rate hikes than Americans because they have more mortgages and other long-term loans with floating rates. Now, having absorbed much of the pain of tighter money, Europe faces less pain down the road than the US does. Also, the trillions amassed by consumers during the pandemic are largely spent in the US, but continue to grow in Europe. Excess household savings currently amount to 14 per cent of annual incomes, up from 11 per cent two years ago, according to JPMorgan.
+The markets are taking notice. Excluding the mega cap stocks, which juiced US returns, the average stock in Europe outperformed the mighty US market in 2023. And the signs above point to a wider comeback in 2024.
+China fading
+Many China watchers continue to parrot the Beijing party line, that growth is purring along at 5 per cent — perhaps double its real potential. Asked why Beijing is not taking more aggressive steps to rescue a faltering economy, the answer from Chinese policymakers is, well, the official growth rate is fine, why take more action?
+China is falling behind the US
+Chinese GDP as a % of US GDP, measured in nominal dollar terms
+2025
+2020
+2015
+2010
+2005
+2000
+1995
+1990
+1985
+1980
+0
+80
+60
+40
+20
+Sources: IMF, Haver Analytics, Breakout Capital calculations
+Behind this absurdity are global bragging rights. President Xi Jinping aims for China to overtake the US as the world’s dominant economy, and his officials closely track its progress in nominal dollar terms — not in PPP terms, which is commonly used among western academics. In nominal terms, China’s GDP is now 66 per cent of US GDP, down from 76 per cent in 2021. Aggressive stimulus could weaken the renminbi, further shrinking the economy in dollar terms — and leaving the paramount leader farther from his goal. Better to keep up the charade, and pretend China is not fading.
+Global investors are looking past this nonsense, and will continue to reduce their exposure to China. Net foreign direct investment into the country has just turned negative for the first time. Beijing can avoid a crisis with this extend-and-pretend game, but that won’t keep its economy and markets from losing share to its peers.
+Emerging outside China
+Not so long ago, many smaller emerging economies thrived by selling raw materials to the largest one, and grew in lockstep with China. No longer. The link has broken. Now a fading China is more of an opportunity than a challenge for the rest of the emerging world.
+China until recently was drawing more than 10 per cent of global foreign direct investment, and as those flows reversed, the big gainers were rival emerging countries, led by Vietnam, India, Indonesia, Poland and above all Mexico, which has seen its share more than double to 4.2 per cent.
+Investors are moving to countries where they can trust the economic authorities. During the pandemic, emerging world governments refrained from borrowing too heavily. Central banks avoided large bond purchases, and moved more quickly than developed world peers to raise rates when inflation returned. Even Turkey and Argentina, once emblems of irresponsibility, have embraced policy orthodoxy.
+At the start of 2023, many observers feared that rising rates would rekindle the instability of the 1990s, when dozens of emerging nations were defaulting each year. What happened? Two minor emerging markets (Ghana and Ethiopia) and not a single major one defaulted in the course of the year. Emerging nations are surprising for their resilience, not their fragility, and the world is likely to start taking notice in the coming year.
+Dollar decline
+Late in 2022, the value of the dollar hit a two-decade high against other major currencies and has since drifted downward. History suggests that dollar down-cycles last around seven years. And signs are the decline could accelerate. Even now, the dollar remains overvalued against every major currency.
+Most economists are still confident that the dollar won’t fall much because there is no alternative and investors will never tire of buying US debt. Too confident. At over 10 per cent of GDP, the US twin deficit — including the government budget and the current account — is more than twice the average for other countries. Since 2000 US net debts to the rest of the world have more than quadrupled to 66 per cent of GDP — while on average other developed countries were reducing their debt load and emerging as net creditors.
+The dollar is past its peak
+DXY Index, which measures the value of the dollar versus major world currencies
+2020
+2015
+2010
+2005
+2000
+1995
+1990
+1985
+1980
+1975
+100
+80
+60
+180
+160
+140
+120
+Source: Bloomberg • as of Dec 15
+The search for alternatives is on. Foreign central banks are moving reserves to rival currencies, and buying gold at a record pace. The United Arab Emirates recently joined Russia and other oil producers who accept payment in currencies other than the dollar. And if America’s rising debt burden slows its economy faster than expected — a real possibility — the dollar faces a double-barrelled threat in 2024.
+Splintering the Magnificent Seven
+In 2023 the big US tech stocks boomed anew on the widespread assumption that they are the only firms rich enough to capitalise on the next big thing, artificial intelligence. Yet only three of the seven are major players in AI: Microsoft, Alphabet and Nvidia. Only one, Nvidia, is making real money on AI. The rest, blessed by association with the buzzword du jour, saw their stock market value rise well in excess of their earnings growth.
+This is a familiar syndrome: a new innovation excites investors, who pour money into any company loosely related to that innovation, until they realise that most aren’t going to make money on it anytime soon. This happened in the dotcom era, and it is happening now. Already expectations for 2024 earnings by the big seven are fracturing: rising rapidly for Nvidia, barely at all for Apple, and shrinking for Tesla.
+AI mania is unfolding against an unusual backdrop, in that the rest of the tech sector is in a mini recession. Venture capital funding has fallen sharply. Led by Amazon, Alphabet and Microsoft, more than 1,100 technology firms laid off workers last year; the net loss of 70,000 jobs made tech the only sector, outside motion pictures, to downsize in 2023. A further culling, not a boom, is more likely in 2024.
+Hollywood’s Napoleon complex
+No doubt the pandemic left many people leery of indoor spaces, but for the most part bars, restaurants and other entertainments are packed again. Movie theatres, however, are not. Ticket sales have yet to top 900mn in the US domestic market, down from 1.2bn in 2019 and nearly 1.6bn at the peak in 2002.
+Hollywood’s problems are well known, including the challenges from streaming services and other online media, and the limits of its blockbuster action film formula. Underplayed in all this is a growing tendency to filter scripts through a progressive lens, increasing their appeal to the liberal 30 per cent of the population, at the risk of alienating the rest. One can hear the axes grinding in many new releases but perhaps most crudely in Napoleon, a politicised parody of one of history’s most complex figures.
+Hollywood has not recovered from the pandemic
+Box office tickets sold, US domestic market (bn)
+2025
+2020
+2015
+2010
+2005
+2000
+1995
+1990
+1985
+1980
+1975
+0
+1
+0.5
+1.5
+Sources: MPAA, Box Office Mojo by IMDbPro, the-numbers.com, UBS Research, Breakout Capital research • 2023 = as of Dec 15
+In Ridley Scott’s telling, the emperor was neither grand military strategist, nor champion of republican revolution, nor civil service and education reformer — just a cranky little murderer. The film ends with a scroll of battlefield death tolls. Asked whether he had seen it, a French-born conservative friend told me “of course not”. He knew Hollywood would render Napoleon to fit its own political worldview. That may draw applause from the Academy — it won’t help revive box office revenues.
+The writer is chair of Rockefeller International and an FT columnist
+Photographs: AFP/Getty Images/Bloomberg/Reuters/Dreamstime/Kevin Baker/Apple

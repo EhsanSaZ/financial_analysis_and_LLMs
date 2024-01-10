@@ -1,0 +1,42 @@
+Humans have historically not been very good at predicting things, but surely that will change.
+The problem tends to be that people expect the future to be radically different to the present. That bias doesn’t seem to be an issue for equity analysts, who tend to be most comfortable assuming tomorrow will be much like today.
+As a result of this, there’s a “very decent” correlation between equity volatility in a given year, and the range of forecasts strategists produce for the coming year, writes Société Générale’s Jitesh Kumar:
+For example, over 2017, VIX averaged 11.1, and the S&P500 forecast range from strategists for 2018 was c.17%. Average VIX for 2022 was 25.6, and the subsequent range of forecasts for S&P500 for 2023 was much higher at 32%. 2021 was an exception given the vaccine optimism canceling the historical volatility seen over COVID.
+Through this lens, how does the year ahead look? In a word, weird (our emojis):
+2024 is so far shaping up to be very uncertain for strategists despite the average level of VIX for 2023 so far being below 17. The uncertainty in forecasts for end 2024 is almost twice what we would expect based on the historical regression.
+The uncertainty is exemplified by some strategists having to change their price targets merely a few weeks after originally writing the year-ahead outlooks last month! [🐈💅]
+For what it’s worth, we in the SG derivatives strategy team see volatility remaining relatively subdued in the first part of the year before rising in the second half.
+Kumar has provided this graph showing the overall trend:
+Basically, predictions for 2024 look surprisingly chilled. Too chilled, you might think.
+We set out to recreate this in an explorable version, only to be thwarted by our software’s refusal to believe you might only want a trend line on a single series. Nonetheless, voilà — ignore the blue line and prod to your heart’s content:
+30
+20
+10
+28
+26
+24
+22
+18
+16
+14
+12
+Range of forecasts for the subsequent year
+30
+20
+10
+25
+15
+Avg VIX through last year
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+Source: Bloomberg/SocGen
+Would we say it’s time for our readers to crack each other’s heads open and feast on the goo inside? Well, no, but consider yourself warned.
+Further reading
+— Rating year-ahead reports on their stock picture choices (updated)

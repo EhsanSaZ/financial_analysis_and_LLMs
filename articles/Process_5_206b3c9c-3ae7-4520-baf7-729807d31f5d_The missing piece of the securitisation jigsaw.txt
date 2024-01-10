@@ -1,0 +1,34 @@
+Earlier today, Alphaville published an updated linksfest to almost 60 investment outlook reports for 2024. But one by Janus Henderson is worth highlighting because it indirectly touches an interesting issue we’ve been thinking about.
+The report is authored by John Kershchner, Janus Henderson’s head of US securitised products. You know, the complicated alphabet soup that caused the global financial crisis bla bla bla. But that’s precisely the kind of lazy bigotry against his beloved asset class that Kerschner wants to bust!
+One of the most striking biases we notice in our work with investors is an aversion to securitized assets within their fixed income allocations. (Even hearing the word “securitized” makes some investors run for the proverbial hills!) As a result, many investors may have significant underweight allocations to securitized assets.
+. . . Understandably, scar tissue remains following the role securitization played in the 2008 financial crisis. Integrity, once questioned, can be hard to earn back. That said, we encourage investors to challenge any biases they may have against the asset class. In eschewing this large, liquid, and relatively high-credit quality asset class, we believe investors may be missing an opportunity to optimize their portfolios for strong risk-adjusted returns.
+The report goes through 10 “false beliefs” that Kerschner believes is irrationally souring investors against securitisation. They are:
+1
+Securitised bonds are riskier than corporate bonds
+2
+You can’t trust the credit ratings
+3
+Securitisation caused the 2008 financial crisis
+4
+Securitised bonds are a small asset class you can afford to ignore
+5
+Securitisation is a new and unproven market
+6
+It’s too hard to understand
+7
+There are too many dang acronyms
+8
+Investors can do well enough by sticking to the Agg
+9
+Relative value trades don’t exist in fixed income
+10
+There’s no benefit to adding just another bond sector to a portfolio
+As you’d expect for the head of US securitised products at a US asset manager in desperate need of inflows, it’s all very self-serving. And some of the points are strawmen — we’ve never heard anyone saying securitised bonds are a new product, or that RV bond trades don’t exist.
+But to be honest, the report doesn’t seem wrong on the whole. Anecdotally, many investors do still appear to be a little wrongly prejudiced against the asset class because of bad 2008 vibes.
+But what caught our eye was this simple overview of the securitised universe. Can you see what’s arguably missing?
+Sure, CLOs are kinda “bank loans to corporate borrowers”, but the reality is that this is overwhelmingly acquisition finance for private equity firms. Classic bread-and-butter lending to small businesses is one of the few major corners of the debt market that hasn’t been widely securitised.
+Credit cards, student loans, mortgages of any stripe, car financing, even music rights are widely securitised, but the near $3tn US universe of “commercial and industrial loans” has somehow mostly escaped the clutches of financial engineering.
+This is largely because it is been dominated by small regional banks that know their own local businesses, and don’t want to flip them to Wall Street. Moreover, smaller business loans inherently bespoke, asset-light and are hard to standardise in a way that makes then fit nicely into a bigger pool that can then be securitised.
+Finally, when the MBS market first started taking off in the 1970s and 1980s it also needed a government quasi-guarantee in the form of backing from agencies like Fannie Mae and Freddie Mac. The US Small Business Administration does have a securitisation programme, but it is pitifully modest.
+However, while securitisation remains a dirty word, might it make sense to try to bring the technique to corporate loans? After all, there are a lot of small businesses that are struggling to raise loans from retrenching banks. And as the private credit boom shows, plenty of institutional investors that are keen to lend to them.
+In fact — and we’re just spitballing here — perhaps that is where the private credit boom could eventually head?

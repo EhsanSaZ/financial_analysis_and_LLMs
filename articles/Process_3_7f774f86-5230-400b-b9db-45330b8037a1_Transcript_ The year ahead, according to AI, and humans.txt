@@ -1,0 +1,216 @@
+This is an audio transcript of the Unhedged podcast episode: ‘The year ahead, according to AI, and humans’
+Ethan Wu
+Hey, one quick note. This show you’re about to hear was recorded in mid-December. Hey, listeners, as we move into the new year, we thought it would be helpful to take a look at what the best minds on Wall Street are saying about what they expect in 2024 in the world of finance and the world of markets and also to ask the question, are the best minds on Wall Street any better or any worse than ChatGPT? This is Unhedged, the markets and finance show from the Financial Times and Pushkin. I am financial reporter Ethan Wu here in the New York studio, joined by definitely not ChatGPT, Robert Armstrong.
+Robert Armstrong
+(In robotic voice) It is nice to be here. Gibberish. Beep.
+Ethan Wu
+(Laughter) And from London, the base text on which all chatbots are trained, Katie Martin in London.
+Katie Martin
+(In robotic voice) I am in charge (laughter) of ChatGPT, apparently.
+Ethan Wu
+We have our two foremost AI experts today on the podcast to talk about 2024 in markets and finance. You know, traditionally on Wall Street, the big researchers at the banks and the sell-side research outlets published their investment outlooks for the year to come. They’ve done so again for 2024. And we were inspired by our colleague Bryce Elder over at FT Alphaville, who came up with an amazing quiz that you can take right now at FT.com. We’ll have the link in the show notes.
+Year-ahead investment outlook for ChatGPT. So what Bryce did is he went through a bunch of Wall Street investment outlooks and pulled quotes from them and also used ChatGPT to generate some, let’s call it comparable text, from the chatbot and he put them in a quiz format. So we’ll get a passage and we have to guess who wrote that — ChatGPT or one of the big Wall Street sell-side shops. Katie and Rob, do you think before we start that you’ll be able to tell the difference?
+Robert Armstrong
+I’m gonna nail everyone.
+Ethan Wu
+Everyone?
+Robert Armstrong
+Katie’s laughing at me already.
+Katie Martin
+I reckon I can do this.
+Ethan Wu
+OK, well, I’m going to give you both five of them, and we’ll have you preregister your guesses and we’ll see — ChatGPT or Wall Street analyst. Let’s begin. “Absent rapid Fed easing, we expect a more challenging macro backdrop for stocks next year, with softening consumer trends at a time when investor positioning and sentiment have mostly reversed. Equities are now richly valued, with volatility near the historical low, while geopolitical and political risks remain elevated.” Who wrote that, Rob and Katie, ChatGPT or JPMorgan?
+Robert Armstrong
+JPMorgan.
+Katie Martin
+I’m saying JP, 100 per cent.
+Ethan Wu
+All right, let’s see. JPMorgan. You both are correct. That is from JPMorgan’s Global Equity Strategy 2024 Outlook. Off to a great start.
+Robert Armstrong
+Right on.
+Katie Martin
+Chalk one up for the humans.
+Ethan Wu
+This passage is really just like a bunch of investment-adjacent words kind of put into a string. OK, next question. “Navigating a challenging macro backdrop with high valuations and geopolitical risks demands a cautious and strategic approach. Assessing risk tolerance, diversifying portfolios, focusing on quality investments and staying informed are key strategies for investors looking to navigate these uncertain market conditions.”
+Robert Armstrong
+That is scandalously free of content. (Ethan laughs) I mean, that is just amazing. Doesn’t actually rule out that it was written by a human being, but makes me slightly suspect that, I mean, writing something that empty-headed is the kind of thing ChatGPT is really good at. So I’m inclined to go GPT, but I’d like to consult with my advisor here. Katie, what do you think?
+Katie Martin
+I am gonna say ChatGPT because if I’m not mistaken, Deutsche have got a 5,100 target on the S&P for 2024, so that . . .
+Robert Armstrong
+Ah. So you actually have information.
+Ethan Wu
+Katie is actually informed about things, unlike us.
+Robert Armstrong
+Oh, snap. OK, so we’re going with GPT here, boss.
+Ethan Wu
+ChatGPT it is.
+Robert Armstrong
+Ding, ding, ding, ding. (Katie cheers)
+Ethan Wu
+We’re doing good. Two for two. That’s really not bad.
+Katie Martin
+Humans! Humans!
+Robert Armstrong
+That one was a close call though. That was not obvious. It was, I think we were chosen for the right reasons, but it was not an obvious call.
+Ethan Wu
+OK, here’s a bit of a tougher one. We’ll see if you guys can get this one. “Debt sustainability issues are a global concern, especially if we are in a new regime of higher rates. A sustainable fiscal path is generally viewed as one where the debt-to-GDP ratio is either stable or decreasing over time. By this definition, many countries, including the US, are on unsustainable fiscal trajectories.” Who wrote that, ChatGPT or Bank of America?
+Robert Armstrong
+I think that is just, first of all, it’s broadly true, I think.
+Ethan Wu
+So was the previous one’s “challenging macro backdrop”.
+Robert Armstrong
+No. The last one was content-free. The last one had no truth value whatsoever. It was neither true nor false. This one, while kind of true, there were certain phrases in there like kind of like most people say-type phrases that make me suspect that it was written by the chatbot because that’s kind of characteristic of the chatbot — according to most people, blah, blah, blah. Whereas a report from a broker tends to say “According to our . . . ”
+Ethan Wu
+According to us.
+Robert Armstrong
+According to us, we use this thing, so I’m gonna vote — maybe we disagree on this one, Katie, but I’m gonna vote that’s the computer again.
+Katie Martin
+I think that’s actually a very good shout. That’s actually not hugely inconsistent with what Bank of America have been saying, which is that deficits matter and that the bond market is likely to punish countries, and companies for that matter, that borrow more than they should.
+Robert Armstrong
+Hmm. Oh dear.
+Katie Martin
+But yeah, I think the language is off. So I say robot.
+Ethan Wu
+It’s really terribly unfair that Katie has knowledge about these investment outlooks.
+Robert Armstrong
+Yeah. It is an unfair advantage.
+Katie Martin
+I read a lot of them. What can I say?
+Ethan Wu
+OK, so we have two votes for chatbot. That is, unfortunately, Bank of America.
+Robert Armstrong
+I don’t know who looks dumber now, Bank of America or us.
+Katie Martin
+You, that’s who looks dumb. You said it was in the language and I believed you.
+Robert Armstrong
+And you agreed with me.
+Katie Martin
+But I said it was kind of consistent with what they’ve been saying. So I’m blaming you.
+Ethan Wu
+Katie took both sides. This is from Bank of America’s Global Macro Year-Ahead: Hope for the Best. Prepare for the Worst, which also could have been generated by a chatbot, that title.
+Robert Armstrong
+OK, sorry. Sorry, Bank of America.
+Katie Martin
+Sorry, Katie, for leading you astray.
+Ethan Wu
+All right, on to the next one, number four. This one is about gold. “In 2024, investors will need to navigate a fragmented economic outlook. The high disparity in valuations and the drying up of excess liquidity will lead to higher equity val— (fumbles).
+Robert Armstrong
+We never have this problem when we use the chatbot.
+Ethan Wu
+My bad, my bad, my bad. One more time. “The high disparity in valuations and the drying up of excess liquidity will lead to higher equity volatility. Lower growth and inflation may favour a return to negative bond-equity correlation, which is good news for diversification and multi-asset portfolios. Real and alternative assets such as macro and fixed income hedge funds may further add to traditional diversification. Gold can provide protection from geopolitical risk and some commodities can hedge against inflation.” Who wrote that, Rob and Katie, ChatGPT or Amundi?
+Katie Martin
+That’s Amundi.
+Robert Armstrong
+OK, I agree with Katie. (Katie laughs)
+Ethan Wu
+Katie, did you know that? You just, you’ve read the outlook?
+Katie Martin
+(Laughter) I mean, yes. I’m pretty sure I remember them saying this and there is some, you know, like gold has been like relatively exciting this year. Again, it’s one of these assets that trades a bit strangely. Sometimes people decide it’s like something you buy in times of peril and awfulness and sometimes people decide it’s a speculative asset. Either way, it’s had a great run this year and there is a lot of chat about how to diversify a portfolio, whether you should rely entirely on bonds when bonds are really shaky at the moment. But I’m as sure as I can be. I remember that being Amundi, and if I’m wrong, I’m gonna look really silly.
+Ethan Wu
+OK. Investors navigating a fragmented economic outlook — that is indeed Amundi.
+Katie Martin
+Yes! I’m good at this!
+Robert Armstrong
+Thank you, Katie.
+Ethan Wu
+We’re doing well.
+Robert Armstrong
+I wouldn’t have known. I thought the jargon was strong with that one.
+Ethan Wu
+I do think the fact that they’re specifying macro and fixed income hedge funds does seem to me more like an investment outlook than a chatbot. That might be a little too specific for a chatbot to (inaudible).
+Robert Armstrong
+Correct. Yeah, yeah. Good one.
+Katie Martin
+I was literally gonna guess Amundi before you even said it so I’m feeling quite proud of myself. Yeah.
+Ethan Wu
+Katie has these on the back of her hand. That’s amazing.
+Katie Martin
+It turns out I’m a nerd for this. Who knew?
+Ethan Wu
+All right. This last passage is a little bit meta. It’s about AI itself. “AI’s role in research and development is expanding, especially in industries like pharmaceuticals, material sciences and energy. AI-driven simulations, data analysis and pattern recognition might accelerate innovation, leading to faster product development cycles and increased productivity in these sectors. However, challenges like ethical considerations, workforce displacement and the need for infrastructure and regulatory frameworks could influence the actual extent of AI’s productivity impact in 2024.” Who wrote that, Goldman Sachs or ChatGPT?
+Robert Armstrong
+Man, that is the toughest one yet. What do you think, Katie?
+Katie Martin
+That is quite tough.
+Robert Armstrong
+It’s like a kind of smooth, faultless summary of all the generalities you can think of in perfectly normal human grammar.
+Ethan Wu
+That is the problem with AI investment outlooks, is that there’s not a lot of specific things to say yet. You kind of have to talk in generalities.
+Robert Armstrong
+Yeah. I mean, I would have thought Goldman might have found a way to put something slightly more substantive in there, like we are bulls on, or something like that. Do you know what I mean? It’s a bit tepid for Goldman, so I’m leaning hesitantly, hesitantly towards that’s a ChatGPT description. What do you think, Katie?
+Katie Martin
+Ooh, I’m gonna say Goldman because it’s extreme, it is quite specific around this is gonna be like useful for pharmaceutical research and . . .
+Robert Armstrong
+Yeah, that sounded human. The industries they happened to pick out sounded human.
+Katie Martin
+Because that’s one of the things that investors are trying to get their head around for 2024 is, you know, this year AI stocks have, like, properly gone to the moon. And the big question is whether in 2024 what you’re gonna see is the rest of the market catch up or this kind of trickle-down effect where the technology helps all sorts of companies that do loads and loads of different random stuff. They don’t have to make the chips or anything like that. So this does sound plausible as an excerpt from an investment thesis. So I’m gonna say tentatively, Goldman.
+Robert Armstrong
+Let’s split it so one of us can be right and the other one can be wrong.
+Ethan Wu
+All right. We’ve been tied so far. So this one will be the decider. That passage is actually from ChatGPT, not from Goldman.
+Robert Armstrong
+Woo! Winner, winner, chicken dinner.
+Ethan Wu
+Rob is our winner.
+Katie Martin
+Wait, did you win?
+Robert Armstrong
+Yes! I said, GPT.
+Katie Martin
+Surely I get extra points for being absolutely certain.
+Robert Armstrong
+Yeah, you helped us with that along.
+Ethan Wu
+I think Katie gets some bonus points for really knowing these investment outlooks. 
+Robert Armstrong
+Not having spent a lot of time with ChatGPT, how close those things were surprised me. So I would just go on record as saying those were not easy calls. And it’s an easy thing to do to make fun of year-ahead outlooks, that they’re inane or whatever. But I would just say that I’m struck by how well the computer did that job.
+Katie Martin
+You know, one of the great uses for AI, by the way, and all this ChatGPT business, is doing exactly that, right, so investment firms like load in all of the kind of sell-side analysis into their systems. I don’t know how it works, but anyway, they get like AI to like, parse it and say, look, here’s a one-pager on what Goldman thinks about the world or what Morgan Stanley thinks about the world.
+Robert Armstrong
+Yeah, and I know at least one investment manager who uses ChatGPT to write the first draft of his monthly letter to investors. Just saves him an hour of scrawling it out, he says. ChatGPT, talk about these four different themes that we’re talking about. Throw in something like this. It cranks him out 400 or 500 words and he edits it up, adds a little of his own voice, and it’s saved him a lot of time.
+Ethan Wu
+Yeah. I mean, I think these year-ahead investment outlooks really seem like a totally plausible application of ChatGPT if it gets a little bit sharper, right? What they’re doing is they’re taking a year of their own research and then just summing it up and condensing it for investors. And you could do a totally plausible first draft with a chatbot.
+[MUSIC PLAYING]
+All right, listeners, you’ve heard what AI and also Wall Street investment outlooks have to say about 2024. When we’re back in a moment, our thoughts on the year to come.
+[MUSIC PLAYING]
+All right. Welcome back. Each of us have thought long and hard about what 2024 is going to bring in the world of markets and finance and have come up with a big theme that we’ll be watching in the year to come. Who’d like to start?
+Robert Armstrong
+I’ve got the obvious one, the S&P 7 versus the S&P 493. That is the Magnificent Seven versus the rest of the field. As we have now all been told approximately 10,000 times in the last year, most of the returns this year came from the wonderful performance of these very large technology stocks. Can we expect that to happen next year? I am going to say that the S&P 493 will outperform the Magnificent Seven, and I’m going to say that for the stupidest possible reason, which is good old reversion to the mean. The S&P 7 had a great year last year, the 493 not so good. So I’m gonna to say the 493 wins the year, but with the relatively low level of confidence and just for reversion-to-mean reasons rather than actual insight.
+Ethan Wu
+Katie, what are you looking at for 2024?
+Katie Martin
+I am looking at one of the key themes that runs through all of the, you know, analysis for the year, which as you can see, I have nerdily read, which is bonds really are back this time. We know we said this last time around for 2023 and we were wrong, but we absolutely mean it this time. It’s definitely happening. The top in bond yields is in and what a lot of the firms are doing is trying to kind of gently guide their clients to stop parking in cash and staying there forever and just push out further, get some longer-term fixed income paper, lock in those yields because they’re just not gonna be there forever. So if this is wrong again, then that will be on the back of some pretty significant wrongness across the market in fixed income and I can’t see it.
+Robert Armstrong
+Some juice has already come out of that trade, right? Like, you know, since November or whatever. So, you know, the very sweetest bit of it may have already been plucked.
+Ethan Wu
+I mean, it really matters about the inflation outlook, right? It depends if we’re going to look at an inflation regime where we’re at 2.5, 3 per cent as the kind of long-run average inflation rate if central banks move their targets up, which a discussion about which could pick up this year. I think a lot of bond investors are expecting kind of a full return to 2 per cent indefinitely. But it very much could be that we’re in like a structurally higher inflation world, a structurally higher inflation volatility world, and that, you know, that would put a dent in the bond bull market. But I do agree with you, Katie, at least in the short to medium term, there’s a lot of room for this to run as the tightening cycle all sort of comes to an end.
+Katie Martin
+Yeah. One of the things that does catch my eye as well from all of the kind of, you know, year-ahead outlook stuff is the market simultaneously saying we think the Fed has somehow achieved the miraculous and pulled off this soft landing and you know, you might not even notice it happening, that you know, it’s gonna be a painless, immaculate disinflation. But at the same time, we think the Fed is gonna cut by, I don’t know, 1.2 percentage points. Those things can’t both be right. So that’s gonna be a bit of a point of tension. But I think, you know, broadly speaking, I think the horror show for bonds is over.
+Ethan Wu
+All right. This cannot go on forever part two, sort of sounds like to me. Well, what I’m looking at in ‘24 is Japan, which we’ve talked about on the show several times. But there’s still so many interesting stories playing out there, both kind of in Japan itself and, you know, possible lessons for the broader world. I mean, we’ve talked in the show about, you know, the corporate reforms going on in Japan, possible exit from deflation. And those are really interesting stories.
+One I’m really, really keen on in 2024 is how Japan copes with its massive, massive debt pile as interest rates rise. I think this is a problem that pretty much all developed economies are going to be looking at in the future. What do you do with these big debt burdens if interest rates are not zero anymore? And, you know, Japan’s rates are still pretty close to zero, but they appear to be set to rise at some point in ’24. And what that means for fiscal sustainability, how you run a government in huge debt under those circumstances, I think is going to be really interesting. You know, as usual, Japan’s kind of ahead of the curve on the ageing demography, high debt burden story. And how they cope with it I’m really keen on and I think we’ll have a lot of lessons for global investors broadly, not just those interested in Japan.
+Robert Armstrong
+Who brought the economist? Jeez.
+Ethan Wu
+(Laughter) They’re at a crossroads, Rob. Japan’s at a crossroads.
+Katie Martin
+Japan is at a crossroads, but isn’t it always? I mean, people have been looking for some sort of crisis in Japanese government bonds for at least as long as you’ve been alive, Ethan.
+Robert Armstrong
+That is true. But Katie, I will say in Ethan’s defence that people have been looking for Japanese equities to finally outperform for a million years, and they kind of did this year, right?
+Ethan Wu
+Yeah, 20 per cent.
+Robert Armstrong
+Yeah. So things eventually happen sometimes.
+Katie Martin
+What amazing insight.
+Robert Armstrong
+Deep thoughts with Rob Armstrong.
+Ethan Wu
+We’ve got two this cannot possibly go on and we’ve got one this has to happen eventually, right?
+Robert Armstrong
+Yeah, exactly. It’s a good combination.
+[MUSIC PLAYING]
+Ethan Wu
+All right. That’s what we’re looking at in 2024. Thanks, Katie and Rob, for being here. And listeners, let us know what you’re looking for in 2024. My email is ethan.wu@ft.com. We’ll see you soon.
+Unhedged is produced by Jake Harper and edited by Bryant Urstadt. Our executive producer is Jacob Goldstein. We had additional help from Topher Forhecz. Cheryl Brumley is the FT’s global head of audio. Special thanks to Laura Clarke, Alastair Mackie, Jacob Weisberg and Jess Truglia. FT Premium subscribers can get the Unhedged newsletter for free. A 30-day free trial is available to everyone else. Just go to FT.com/unhedged offer. I’m Ethan Wu. Thanks for listening.
+[MUSIC PLAYING]
