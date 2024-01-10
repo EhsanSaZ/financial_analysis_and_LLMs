@@ -170,7 +170,7 @@ def search_financial_times(query, articles_saving_dir, read_local_mock_articles,
             pool.map(get_article_contents,
                      [(chunk, f"Process_{i + 1}", articles_saving_dir, log_level) for i, chunk in enumerate(json_chunks)])
     else:
-        get_article_contents([all_contents, "Process 1", articles_saving_dir])
+        get_article_contents([all_contents, "Process 1", articles_saving_dir, log_level])
 
 
 def main():
