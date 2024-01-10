@@ -1,7 +1,3 @@
-# import os
-#
-# os.environ["OPENAI_API_KEY"] = "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"
-
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
 
 
