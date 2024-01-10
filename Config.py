@@ -8,6 +8,8 @@ mock_data_file_path = os.getenv("MOCK_DATA_FILE_PATH", "mock_data/mock_data.json
 articles_dir = os.getenv("ARTICLES_DIR", "articles")
 num_pages = int(os.getenv("NUM_PAGES", "3"))
 log_level = int(os.getenv("LOG_LEVEL", logging.INFO))
+flask_host = os.getenv("HOST", "0.0.0.0")
+flask_port = int(os.getenv("PORT", "6060"))
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", None)
 

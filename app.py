@@ -39,4 +39,5 @@ def ask():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host=Conf.flask_host, port=Conf.flask_port, debug=True)
+    # app.run( debug=True)
