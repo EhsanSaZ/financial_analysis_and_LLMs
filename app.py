@@ -11,6 +11,8 @@ app = Flask(__name__)
 
 if Conf.OPENAI_API_KEY is None:
     sys.exit("Please set OPENAI_API_KEY in")
+else:
+    os.environ["OPENAI_API_KEY"] = Conf.OPENAI_API_KEY
 
 
 @app.route('/')
