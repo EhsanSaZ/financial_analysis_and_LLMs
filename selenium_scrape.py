@@ -38,6 +38,7 @@ def get_links_to_articles(query, num_pages=1):
     # Set up Selenium with Chrome driver in headless mode
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
 
     driver = webdriver.Chrome(options=options)
@@ -77,6 +78,7 @@ def get_article_contents(args):
     options = webdriver.ChromeOptions()
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
     options.add_argument("--headless")
+    options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     # options.add_argument("--disable-blink-features=AutomationControlled")
 
