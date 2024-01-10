@@ -13,6 +13,9 @@ function askQuestion() {
 
                         displayMessage(botResponse, 'bot');
                         document.getElementById('user-question').value = '';
+                    } else {
+                        displayMessage(`Error: ${xhr.status} - ${xhr.statusText}`, 'bot');
+                        document.getElementById('user-question').value = '';
                     }
                 };
                 xhr.send('user_question=' + encodeURIComponent(userQuestion));
