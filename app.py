@@ -1,4 +1,6 @@
 import os
+import sys
+
 from flask import Flask, render_template, request, jsonify
 from selenium_scrape import search_financial_times
 from LLM_RAG_query import synthesize_docs
@@ -7,7 +9,8 @@ import Config as Conf
 
 app = Flask(__name__)
 
-os.environ["OPENAI_API_KEY"] = Conf.OPENAI_API_KEY
+if Conf.OPENAI_API_KEY is None:
+    sys.exit("Please set OPENAI_API_KEY in")
 
 
 @app.route('/')
