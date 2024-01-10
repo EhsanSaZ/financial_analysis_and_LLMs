@@ -7,13 +7,13 @@ services:
       dockerfile: Dockerfile
     network_mode: "host"
     environment:
-      - READ_LOCAL_MOCK_ARTICLES=true
-      - USE_MUL_PROCESS=true
+      - READ_LOCAL_MOCK_ARTICLES=true # read mock links to articles from a local directory
+      - USE_MUL_PROCESS=true # use multiple process to scrape the articles and save them
       - NUM_PROCESSES=5
-      - MOCK_DATA_FILE_PATH=mock_data/mock_data.json
-      - ARTICLES_DIR=articles
-      - NUM_PAGES=3
+      - MOCK_DATA_FILE_PATH=mock_data/mock_data.json # dont change this. the mock links are stored in this file
+      - ARTICLES_DIR=articles # directory to save the collected data from the links
+      - NUM_PAGES=3 # number of pages to rad from the financial times
       - LOG_LEVEL=INFO
       - OPENAI_API_KEY=''
-      - HOST=0.0.0.0
-      - PORT=6070
+      - HOST=0.0.0.0 # flask host
+      - PORT=6070 # flask port
