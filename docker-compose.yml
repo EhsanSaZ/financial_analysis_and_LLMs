@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  llm_application:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    network_mode: "host"
+    environment:
+      - READ_LOCAL_MOCK_ARTICLES=true
+      - USE_MUL_PROCESS=true
+      - NUM_PROCESSES=5
+      - MOCK_DATA_FILE_PATH=mock_data/mock_data.json
+      - ARTICLES_DIR=articles
+      - NUM_PAGES=3
+      - LOG_LEVEL=INFO
+      - OPENAI_API_KEY=''
+      - HOST=0.0.0.0
+      - PORT=6070
